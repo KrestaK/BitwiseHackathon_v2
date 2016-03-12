@@ -1,0 +1,17 @@
+#feature			{border:1px solid #DBDCE9;  float: center;	margin-left:auto; margin-right:auto;  width:550px; border-radius:7px;   padding: 25px; }
+			
+#overallResults		{border:1px solid #DBDCE9;  float: left; width:350px;	border-radius:7px;   padding: 15px; }
+
+header				{font-family: Verdana, Arial;}
+
+body				{font-family: Verdana, Arial; background-color: #ffffe5;}
+
+div 					{width: 200px;}
+
+h2 					{font: 400 40px/1.5 font-family: Verdana, Arial; margin: 0; padding: 0; }
+
+ul 					{list-style-type: none;  margin: 0;padding: 0;}
+
+li 					{font: 200 20px/1.5 font-family: Verdana, Arial; border-bottom: 1px solid #ccc;}
+
+li a 					{text-decoration: none; color: #000; display: block;}
